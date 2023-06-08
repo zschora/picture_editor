@@ -1,0 +1,3 @@
+D:/work/petC++/picture_editor/cmake-build-debug/CMakeFiles/picture_editor.dir
+D:/work/petC++/picture_editor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/work/petC++/picture_editor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

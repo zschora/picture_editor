@@ -1,0 +1,6 @@
+# ninja log v5
+11	2247	7061198925120481	CMakeFiles/picture_editor.dir/main.cpp.obj	ec40342b6ea62efe
+2247	2574	7061198928231841	picture_editor.exe	f80f38a60f2e7646
+1	237	7061199355374264	build.ninja	8398c1437072e36b
+25	1950	7061198922090964	CMakeFiles/picture_editor.dir/UIManager.cpp.obj	1960f4d1fd3a9c3e
+17	1308	7059666965385392	CMakeFiles/picture_editor.dir/ImageEditor.cpp.obj	726f91801199f91d
